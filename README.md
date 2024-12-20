@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinuumittal&label=Profile%20views&color=0e75b6&style=flat" alt="chinuumittal" /> </p>
 
 <p align="center">I'm a passionate developer with a knack for creating dynamic and interactive user experiences. Currently exploring new tools and technologies to broaden my skill set. Let's build something amazing together!</p>
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" style="margin-right: 20px;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
