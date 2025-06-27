@@ -54,6 +54,26 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
   </a>
+
+  <!-- ✅ Added tools -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
+  </a>
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="50" height="50" />
+  </a>
 </p>
 
 <h3 align="left">Currently Exploring:</h3>
@@ -63,8 +83,14 @@
   <li>Enhancing UI/UX with React</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinuumittal&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinuumittal&" alt="GitHub Streak Stats"  /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinuumittal&show_icons=true&locale=en" alt="GitHub Stats" style="margin-top: 20px;" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinuumittal&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;" />
+</p>
+
+<p align="top-right">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinuumittal&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
