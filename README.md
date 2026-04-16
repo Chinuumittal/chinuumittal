@@ -80,13 +80,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chinuumittal&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" />
